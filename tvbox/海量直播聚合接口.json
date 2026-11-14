@@ -1,6 +1,12 @@
 {
   "lives": [
     {
+      "name": "Yoursmile",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "ua": "okhttp/3.15",
+      "source": "南风"
+    },
+    {
       "name": "综合",
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang)",
@@ -37,6 +43,12 @@
       "source": "饭太硬"
     },
     {
+      "name": "Guovin",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+      "ua": "",
+      "source": "菠菜pro"
+    },
+    {
       "name": "Kimentanm1线",
       "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "",
@@ -47,18 +59,6 @@
       "url": "https://sub.ottiptv.cc/bililive.m3u",
       "ua": "okHttp/Mod-1.5.0.0",
       "source": "嗷呜"
-    },
-    {
-      "name": "Guovin",
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
-      "ua": "",
-      "source": "菠菜pro"
-    },
-    {
-      "name": "Yoursmile",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
-      "ua": "okhttp/3.15",
-      "source": "南风"
     }
   ]
 }
